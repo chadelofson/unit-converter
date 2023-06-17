@@ -6,7 +6,7 @@
   src="./images/unit-converter.png"
   alt="Unit Conversion Screenshot"
   title="Unit Conversion"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
 
 
 For this project, you can enter a value into the input and get all the conversions of Length, Volume and Mass.
